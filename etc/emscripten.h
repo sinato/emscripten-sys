@@ -4,5 +4,5 @@
 #include <emscripten/html5.h>
 #include <emscripten/threading.h>
 #include <emscripten/trace.h>
-#include <emscripten/vector.h>
+// #include <emscripten/vector.h>
 #include <emscripten/vr.h>
